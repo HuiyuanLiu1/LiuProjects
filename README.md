@@ -11,4 +11,4 @@ Psychology and statistics student interested in market research, consumer insigh
 - Consumer behavior research
 
 ## Featured Projects
-- College Graduate, Income, and Spendings analysis
+- [College Graduate, Income, and Student Spending Analysis](./college-income-student-spending-analysis.html)
