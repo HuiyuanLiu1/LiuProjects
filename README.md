@@ -1,6 +1,6 @@
 # Huiyuan Liu
 Grinnell College
-Psychology and statistics student interested in market research, consumer insights, and user behavior.
+Portfolio of statistical analysis projects that I did during college.
 
 ## Skills
 - R / SQL / SPSS
